@@ -1,4 +1,4 @@
-### Deep Dive into Neural Networks
+### Neural Networks
 
 Neural networks are computational models inspired by the human brain. They consist of units called "neurons" (or "nodes") connected to each other. Neural networks can learn patterns from data by adjusting the weights and biases between these neurons. Deep neural networks (DNNs) are a type of neural network that contains multiple hidden layers between the input and output layers.
 
